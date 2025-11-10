@@ -79,7 +79,7 @@ DB_USER=root
 DB_PASSWORD=your_password
 DB_NAME=dbmsproject
 DB_PORT=3306
-PORT=5000
+PORT=5001
 ```
 
 ### 5. Start the Application
@@ -104,7 +104,7 @@ npm run client
 ### 6. Access the Application
 
 - Frontend: http://localhost:3000
-- Backend API: http://localhost:5000
+- Backend API: http://localhost:5001
 
 ## 📱 Usage
 
